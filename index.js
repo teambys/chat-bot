@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
    const axios = require('axios');
 
    // Replace with your Telegram bot token
-   const token = 'YOUR_TELEGRAM_BOT_TOKEN';
+   const token = '7607726509:AAE2eSkUHEETbFtVIeAXZPl83s2hKzj8he0';
 
    // Create a bot that uses 'polling' to fetch new updates
    const bot = new TelegramBot(token, { polling: true });
