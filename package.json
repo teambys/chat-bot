@@ -1,0 +1,13 @@
+   {
+     "name": "telegram-chatgpt-bot",
+     "version": "1.0.0",
+     "description": "A Telegram bot that uses ChatGPT API to respond to user messages.",
+     "main": "index.js",
+     "scripts": {
+       "start": "node index.js"
+     },
+     "dependencies": {
+       "axios": "^1.4.0",
+       "node-telegram-bot-api": "^0.61.0"
+     }
+   }
